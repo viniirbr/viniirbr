@@ -1,7 +1,7 @@
 ### Olá!! Sinta-se à vontade para explorar meu caderno de estudo.
  
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/viniirbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniirbr&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniirbr&layout=compact&langs_count=7&theme=blueberry"/>
