@@ -1,10 +1,13 @@
-### Olá!! Sinta-se à vontade para explorar meu caderno de estudo.
- 
+## 👋Olá!! Sinta-se à vontade para explorar meu caderno de estudo.
+### Quem eu sou:
+- 💻 <b>Apaixonado por programação desde que conheci o microcontrolador Arduino. Já estudei desenvolvimento para Android e hoje atuo na área do Front End;</b>
+- 📐 <b>Estudante de Matemática e futuro professor;</b>
+- 🤯 <b>Adoro resolver problemas, desde que não sejam conflitos de merge<b>
 
 <div style="display: inline_block">
   <a href="https://github.com/viniirbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniirbr&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniirbr&layout=compact&langs_count=7&theme=blueberry"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=viniirbr&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniirbr&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
