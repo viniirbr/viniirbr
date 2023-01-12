@@ -1,7 +1,7 @@
 ## 👋Olá!! Sinta-se à vontade para explorar meu caderno de estudo.
 ### Quem eu sou:
 - 💻 <b>Apaixonado por programação desde que conheci o microcontrolador Arduino. Já estudei desenvolvimento para Android e hoje atuo na área do Front End;</b>
-- 📐 <b>Estudante de Matemática e futuro professor;</b>
+- 📐 <b>Formado em Licenciatura em Matemática pela Universidade Federal da Bahia (UFBA);</b>
 - 🤯 <b>Adoro resolver problemas, desde que não sejam conflitos de merge<b>
 
 <div style="display: inline_block">
