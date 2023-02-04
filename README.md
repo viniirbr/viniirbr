@@ -1,8 +1,8 @@
-## 👋Olá!! Sinta-se à vontade para explorar meu caderno de estudo.
-### Quem eu sou:
-- 💻 <b>Apaixonado por programação desde que conheci o microcontrolador Arduino. Já estudei desenvolvimento para Android e hoje atuo na área do Front End;</b>
-- 📐 <b>Formado em Licenciatura em Matemática pela Universidade Federal da Bahia (UFBA);</b>
-- 🤯 <b>Adoro resolver problemas, desde que não sejam conflitos de merge<b>
+## 👋Hello!! Feel free to explore my projects!
+### Who I am:
+- 💻 <b>Software Developer from back to front (a.k.a Fullstack) with JavaScript technologies</b>
+- 📐 <b>Graduated in Mathematics</b>
+- 🤯 <b>Problem solver (and compulsive documentation reader)<b>
 
 <div style="display: inline_block">
   <a href="https://github.com/viniirbr">
@@ -15,11 +15,15 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+    
 </div>
  <hr>
   <div style="display: inline_block"> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vayne99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/vinicius-ribeiro-4a2218135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
